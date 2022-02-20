@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git ''
+                git 'https://github.com/niranjann11/maven140.git'
             }
         }
         stage('ContinuousBuild')
