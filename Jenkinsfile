@@ -46,12 +46,4 @@ pipeline
         {
             mail bcc: '', body: 'Continuous Integration has failed', cc: '', from: '', replyTo: '', subject: 'CI Failed', to: 'selenium.saikrishna@gmail.com'
         }
-       
-    }
-    
-    
-    
-    
-    
-    
 }
